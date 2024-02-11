@@ -107,7 +107,7 @@ sudo docker-compose -f compose.yaml -f proxy.yaml up -d
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
-![docker](https://github.com/gaming4funNel/virt-04-docker-in-practice/blob/main/img/docker9.png)
+![docker](https://github.com/gaming4funNel/virt-04-docker-in-practice/blob/main/img/docker10.png)
 
 ## Задача 6.1 (*)
 Добейтесь аналогичного результата, используя познания  CMD, ENTRYPOINT и docker cp.  
